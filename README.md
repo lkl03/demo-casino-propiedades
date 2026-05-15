@@ -1,2 +1,7 @@
-# demo-casino-propiedades
-Demo web para Casino Propiedades — diseñada por eterlab.
+# Casino Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
